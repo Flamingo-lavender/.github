@@ -6,8 +6,8 @@ Welcome to bullshit, **redefined**.
 
 ### some important repositories that you may need
 
-- [Manifest](https://github.com/hentaiOS/platform_manifest)
-- [Vendor](https://github.com/hentaiOS/platform_vendor_hentai)
+- [Manifest](https://github.com/Flamingo-OS/manifest)
+- [Vendor](https://github.com/Flamingo-OS/vendor_flamingo)
 
 
 ### Note
